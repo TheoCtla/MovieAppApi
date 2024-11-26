@@ -34,3 +34,4 @@ C:\Users\user\OneDrive\Bureau\YNOV\M1\Web Full Stack\C#\TP\MovieAppApi\MovieAppA
 C:\Users\user\OneDrive\Bureau\YNOV\M1\Web Full Stack\C#\TP\MovieAppApi\MovieAppApi\obj\Debug\net9.0\MovieAppApi.pdb
 C:\Users\user\OneDrive\Bureau\YNOV\M1\Web Full Stack\C#\TP\MovieAppApi\MovieAppApi\obj\Debug\net9.0\MovieAppApi.genruntimeconfig.cache
 C:\Users\user\OneDrive\Bureau\YNOV\M1\Web Full Stack\C#\TP\MovieAppApi\MovieAppApi\obj\Debug\net9.0\ref\MovieAppApi.dll
+C:\Users\user\OneDrive\Bureau\YNOV\M1\Web Full Stack\C#\TP\MovieAppApi\MovieAppApi\obj\Debug\net9.0\MovieAppApi.sourcelink.json
