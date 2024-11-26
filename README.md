@@ -32,4 +32,5 @@
    ```bash
    git clone https://github.com/TheoCtla/MovieAppApi.git
    cd MovieAppApi
-   https://localhost:7044
+   ```
+   L'application sera accessible sur https://localhost:7044
